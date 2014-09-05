@@ -8,3 +8,4 @@ Completed use stories:
 
 Walkthrough of all user stories:
 
+![alt tag](https://github.com/jack1987/ToDoApp/blob/master/todo.gif)
